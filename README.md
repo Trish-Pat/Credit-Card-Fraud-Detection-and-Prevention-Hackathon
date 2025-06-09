@@ -146,8 +146,4 @@ Based on our findings, we propose a two-pronged strategy:
     - Integrate additional data points like IP address location, device ID, and transaction frequency per user to build even more robust features.
     - Regularly retrain the model with new data to adapt to evolving fraud patterns.
 
-## Future Work
 
-- **Advanced Models**: Experiment with gradient boosting models (XGBoost, LightGBM) or neural networks for potentially higher performance.
-- **Anomaly Detection**: Explore unsupervised anomaly detection algorithms (like Isolation Forest) to identify novel fraud patterns not present in the training data.
-- **Dashboard Development**: Build a comprehensive, interactive dashboard in Tableau or Power BI for business stakeholders to monitor fraud trends and model performance in real time.
